@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.icon {
+    height: 50px;
+    width: 40px;
+}
+
+.bell {
+    color: grey;
+}
+
+.heading {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.thatha {
+    width: 40px;
+}
+
+.head2 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.para {
+    font-family: Roboto;
+    font-size: 12px;
+    color: #919EB6;
+    font-weight: 400;
+}
+
+.para1 {
+    font-family: Roboto;
+    font-size: 12px;
+    color: #313B49;
+    font-weight: 500;
+}
+
+.check {
+    border-radius: 20px;
+    background-color: #01B99F;
+    height: 14px;
+    width: 14px;
+}
+
+.but {
+    border-width: 0px;
+    color: #ffffff;
+    flex-direction: row;
+    align-items: center;
+    padding: 6px 12px;
+    font-size: 12px;
+    position: absolute;
+    width: 58px;
+    height: 24px;
+    left: calc(50% - 58px/2 + 142.5px);
+    background: #01B99F;
+    border-radius: 999px;
+}
+
+.hash {
+    border: 0.5px solid #CED3DE;
+    border-width: 2px;
+    border-radius: 999px;
+    font-family: Roboto;
+    font-size: 12px;
+    color: #5A6B87;
+    background-color: #F7F8FA;
+    text-align: center;
+}
+
+.likes {
+    font-family: Roboto;
+    font-size: 12px;
+    color: #919EB6;
+}
+
+.paraa {
+    color: grey;
+    text-align: right;
+    padding-left: 100px;
+}
